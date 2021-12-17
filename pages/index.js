@@ -15,8 +15,8 @@ export default function Home() {
                 <meta name="description" content="REAL MAVE IS BACK!!">
                   <meta property="theme-color" content="#B81217">
                     <meta property="og:image" content="logo.png">
-                      <meta property="og:url" content="https://mavericks.cf"></meta>
-                      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+                      <meta property="og:url" content="https://mavericks.cf">
+                        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"></meta>
                         <title>Mavericks</title>
                         <link rel="https://cdn.discordapp.com/icons/919827956795338812/a_5b12f0e6aaa8639230bb7747c783ae42.gif?size=1024" href="/favicon.ico" />
                       </Head>
